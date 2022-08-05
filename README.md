@@ -1,10 +1,10 @@
-**Problem Statement:**
+# Problem Statement:
 
 In todays competition, the author will present you a dataset. This dataset contains a total of 8 attributes and concerns over predicting the fuel consumption of various vehicles rode in cities. Therefore, this is a job of regression with multiple variables. 
 
 The project is about constructing a machine learning model that accurately predicts the fuel consumption from the provided dataset.
 
-**The tools I used for this project are:**
+# The tools I used for this project are:
 
 *1. Python
 2. Numpy
@@ -14,7 +14,7 @@ The project is about constructing a machine learning model that accurately predi
 6. Scikit-learn
 7. Statsmodel*
 
-**Concept and Model:**
+# Concept and Model:
 
 From the dataset give to us, I have concluded that:
 
@@ -28,7 +28,7 @@ Keeping these three factors in mind, I have designed a multiple linear regressio
 
 Multiple Linear Regression is one of the important regression algorithms which models the linear relationship between a single dependent continuous variable and more than one independent variable.
 
-**Citations:**
+# Citations:
 
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
