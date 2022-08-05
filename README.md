@@ -29,6 +29,7 @@ Keeping these three factors in mind, I have designed a multiple linear regressio
 Multiple Linear Regression is one of the important regression algorithms which models the linear relationship between a single dependent continuous variable and more than one independent variable.
 
 **Citations:**
+
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
 https://www.kaggle.com/code/rinichristy/best-predictors-for-fuel-consumption-of-vehicles
